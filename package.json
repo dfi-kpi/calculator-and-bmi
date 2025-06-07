@@ -4,7 +4,7 @@
   "description": "The is a calculator app build to compute on the server side.",
   "main": "calculator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node calculator.js"
   },
   "author": "Deepa Subramanian",
   "license": "ISC",
